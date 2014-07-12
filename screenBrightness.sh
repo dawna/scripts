@@ -14,3 +14,4 @@ fi
 echo $1 | tee /sys/class/backlight/acpi_video0/brightness 
 
 exit
+buttz
